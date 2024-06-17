@@ -1,4 +1,4 @@
-This basic template offers the possibility to run LLMs from Together AI or OpenAI with LangChain.
+This basic template offers the possibility to run LLMs from Together AI and OpenAI with LangChain.
 
 ------------------------------------------------------------------------------------------------------------------------
 
