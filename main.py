@@ -13,7 +13,7 @@ import csv
 
 # Together AI
 # See all settings for ChatTogether. Only instruct models (here called chat models) can be used.: https://api.python.langchain.com/en/latest/chat_models/langchain_together.chat_models.ChatTogether.html
-# Choose from our 50+ models here: https://docs.together.ai/docs/inference-models
+# Choose from their 50+ models here: https://docs.together.ai/docs/inference-models
 llm_together = ChatTogether(
     model="meta-llama/Llama-2-7b-chat-hf",
     temperature=0.7,
