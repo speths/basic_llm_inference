@@ -16,6 +16,7 @@ This basic template offers the possibility to run LLMs from Together AI and Open
 - `pip install langchain-together`
 - `pip install langchain-core`
 
+#### 4. Add your API keys to `.env`
 ------------------------------------------------------------------------------------------------------------------------
 
 ### Further information
